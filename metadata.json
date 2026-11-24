@@ -1,0 +1,6 @@
+{
+  "name": "دليل تسوق مصر — تسوق أمازون مصر",
+  "description": "منصة عربية متخصصة لاكتشاف المنتجات والبحث المباشر في أمازون مصر (Amazon.eg) مع أداة إنشاء روابط الشراكة وأدلة التسوق.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
